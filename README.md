@@ -1,7 +1,7 @@
 # mcjs - Computing Pi via Monte Carlo Simulation
 
 #### Live JS Simulation - <a href="https://output.jsbin.com/juposej" target="_blank">https://output.jsbin.com/juposej</a>
-#### Jupyter Notebook - <a href="https://github.com/jlroo/mcjs/blob/master/simulation.ipynb" target="_blank">Pi Simulation Notebook</a>
+#### Jupyter Notebook - <a href="https://nbviewer.jupyter.org/github/jlroo/mcjs/blob/master/simulation.ipynb" target="_blank">https://nbviewer.jupyter.org/github/jlroo/mcjs/blob/master/simulation.ipynb</a>
 
 ### Pi Simulation Matplotlib 
 
