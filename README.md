@@ -1,8 +1,11 @@
 # mcjs - Computing Pi via Monte Carlo Simulation
 
-#### Jupyter Notebook - ![]() 
-#### Live JS Simulation - ![jsbin live simulation](https://output.jsbin.com/juposej)
+#### Live JS Simulation - https://output.jsbin.com/juposej
+#### Jupyter Notebook - https://github.com/jlroo/mcjs/blob/master/simulation.ipynb 
 
+### Pi Simulation Matplotlib 
+
+![Pi Simulation](https://github.com/jlroo/mcjs/blob/master/pi_sim.png)
 
 ### Monte Carlo Method
 
@@ -26,4 +29,3 @@ https://en.wikipedia.org/wiki/Unit_circle
 
 
 ![Unit-Circle](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/720px-Unit_circle_angles_color.svg.png)
-
